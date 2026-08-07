@@ -46,6 +46,12 @@ Global accumulator (checksum): ED9BF929CA671705DCF1675CE06CCF33
 
 ----------------------------------------------------
 
+# Environment
+
+Visual Studio 2022
+
+ISO C++ 20
+
 
 # License
 
